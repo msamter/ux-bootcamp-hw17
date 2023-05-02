@@ -59,15 +59,15 @@ nav .nav-item {
 }
 
 .square {
-  background-color: #333333
+  background-color: #333333;
   position: absolute;
   top: 50%;
   left: 50%;
   width: 100px;
   height: 100px;
   z-index: 0;
-  font-size: 18px;
-  font-family: "Roboto", Arial";
+  font-size: 24px;
+  font-family: "Roboto", "Arial";
 }
 
 .content {
